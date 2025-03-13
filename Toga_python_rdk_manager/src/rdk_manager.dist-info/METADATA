@@ -1,0 +1,11 @@
+Metadata-Version: 2.1
+Briefcase-Version: 0.3.22
+Name: rdk_manager
+Formal-Name: rdk_manager
+App-ID: com.example.rdk-manager
+Version: 0.0.1
+Home-page: https://example.com/rdk_manager
+Download-URL: https://example.com/rdk_manager
+Author: Sudesh Sawant
+Author-email: sudesh.sawant@ltts.com
+Summary: Use WebPa to configure rdkb devices
